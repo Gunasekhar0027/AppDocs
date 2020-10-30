@@ -1,1 +1,4 @@
-
+- The information you provided for the event is true and is appropriate. In case we notice any incorrect information, the event will be suspended and further action would be taken against you.
+- The information of participants is only used for event purpose and not for any other purpose. Legal action will be taken if this information is used elsewhere.
+- ellipseapp.com reserves the right to update and change these Terms of Service regularly without notice to you or acceptance by you.
+- Provided registration data and your profile will be shared with event admin.

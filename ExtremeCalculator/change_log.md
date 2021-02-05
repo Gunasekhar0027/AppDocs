@@ -1,4 +1,6 @@
-# App Permissions
+# [1.0.0] - November 10th, 2020
+- ##rkr
+# [1.0.1] - November 12th, 2020
 ## Internet
 - We need Internet access to fetch data from APIs. 
 ## Storage

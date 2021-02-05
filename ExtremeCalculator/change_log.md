@@ -3,5 +3,6 @@
 - Added Scientific Calculator
 ## [1.0.1] - November 12th, 2020
 - Added calculation History
+- More Functions to Scientific Calculator
 
 

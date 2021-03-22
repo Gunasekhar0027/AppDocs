@@ -1,4 +1,4 @@
 { 
-    "version_name": "1.0.5", 
+    "version_name": "1.0.6", 
     "required": true 
 }

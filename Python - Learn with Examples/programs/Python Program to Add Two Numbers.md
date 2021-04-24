@@ -1,13 +1,39 @@
-{
-    "code":"# This program adds two numbers
+### Code :
 
-num1 = 1.5
-num2 = 6.3
+```
+nterms = int(input("How many terms? "))
 
-# Add two numbers
-sum = num1 + num2
+# first two terms
+n1, n2 = 0, 1
+count = 0
 
-# Display the sum
-print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))",
-    "output":"The sum of 1.5 and 6.3 is 7.8"
-}
+# check if the number of terms is valid
+if nterms <= 0:
+   print("Please enter a positive integer")
+elif nterms == 1:
+   print("Fibonacci sequence upto",nterms,":")
+   print(n1)
+else:
+   print("Fibonacci sequence:")
+   while count < nterms:
+       print(n1)
+       nth = n1 + n2
+       # update values
+       n1 = n2
+       n2 = nth
+       count += 1
+```
+
+### Output :
+
+```
+How many terms? 7
+Fibonacci sequence:
+0
+1
+1
+2
+3
+5
+8
+```
